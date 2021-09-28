@@ -1,2 +1,2 @@
 # TkinterCRUDAV2
- Crud Tkinter
+ Crud feito no Tkinter
